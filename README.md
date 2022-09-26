@@ -1,9 +1,9 @@
 ### Olá! Pode me chamar de Bruno👋
 
 
- Trabalho em projetos particulares para praticar meus conhecimentos.
+Atualmente trabalhando em projetos para desenvolver minhas habilidades.
  
-  Estudando JavaScript.
+  Estudando JavaScript/HTML/CSS.
   
 <div>
 <a href="https://github.com/BrunoAlepique">
